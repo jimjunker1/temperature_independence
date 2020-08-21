@@ -1,0 +1,176 @@
+taxon_id	site_id	prod_mg_m_y	rank
+Tubificid 1	hver	8916.88785937745	1
+Nais spp.	hver	6962.9357246444	2
+Cricotopus sylvestris	hver	2744.58854796311	3
+Radix balthica	hver	1302.89425749104	4
+Ostracoda	hver	2.37669235672097	5
+Midge indet.	hver	0.791570622755376	6
+Limnophora riparia	hver	0.601470580712247	7
+Lumb 3	hver	0.0498789061925625	8
+Simulium vittatum	hver	0.0440197495823384	9
+Sperchon glandulosus	hver	0.0408388649340707	10
+Oribatid 1	hver	0.0017197349306303	11
+Thysanoptera	hver	0.000495445906706902	12
+Hirudinidae	hver	0.000304967877220473	13
+Nematoda	hver	0.000231907422638582	14
+Radix balthica	st6	2511.52833407746	1
+Macropelopia	st6	438.997554804912	2
+Eukiefferiella	st6	196.214188664031	3
+Simulium vittatum	st6	189.824717694008	4
+Nais spp.	st6	184.153453868399	5
+Chaetocladius dentiforceps	st6	181.74986279127	6
+Orthocladius oblidens	st6	72.7962783216381	7
+Micropsectra sp.	st6	47.1497596050676	8
+Lumbricidae	st6	40.2189967385509	9
+Chaetocladius dentiforceps	st6	27.660952114586	10
+Thienemanniella sp.	st6	23.6436796418502	11
+Sperchon glandulosus	st6	13.5187750756934	12
+Cricotopus sylvestris	st6	11.320434635774	13
+Oribatid 1	st6	4.63884371566445	14
+Corynoneura sp.	st6	4.34210131976453	15
+Antocha sp.	st6	4.02736632826789	16
+Tubificid 1	st6	3.12291137068173	17
+Midge indet.	st6	2.90761571881526	18
+Ostracoda	st6	2.6537654900253	19
+Galba trunculata	st6	1.4883384914948	20
+Limnophora riparia	st6	0.837500905043836	21
+Midge indet.	st6	0.765629909134653	22
+Rheocricotopus effusus	st6	0.658378423051846	23
+Diamesa bertrami	st6	0.517792577962669	24
+Orthocladius	st6	0.455845941925954	25
+Tub. 2	st6	0.221329529704994	26
+Potamophylax cingulatus	st6	0.172795898512072	27
+Oribatid 2	st6	0.153436224192167	28
+Ephydridae sp.	st6	0.146415012423452	29
+Simulium vittatum	st6	0.057266006866204	30
+Nematoda	st6	0.0351660983062128	31
+Copepoda	st6	3.35436914781804e-06	32
+Simulium vittatum	st9	2580.57347769024	1
+Orthocladius fridgidus	st9	68.5055719422256	2
+Eukiefferiella sp.	st9	66.4200628965285	3
+Macropelopia	st9	66.081633985776	4
+Nais spp.	st9	48.8292724484443	5
+Micropsectra sp.	st9	42.1168413486618	6
+Radix balthica	st9	25.6309702548449	7
+Orthocladius spp.	st9	25.3167167814753	8
+Orthocladius fridgidus	st9	23.9760476732079	9
+Limnophora riparia	st9	18.8736530766226	10
+Thienemanniella sp.	st9	11.3892083678609	11
+Thienemanniella sp.	st9	10.9506879817712	12
+Sperchon glandulosus	st9	6.87247309348622	13
+Parochlus sp.	st9	6.07663743807837	14
+Diamesa bohemani_zernyi	st9	5.73044496921035	15
+Thienemanniella sp.	st9	4.47822232824923	16
+Lumbricidae	st9	4.15344960530022	17
+Copepoda	st9	3.7518737979497	18
+Ostracoda	st9	3.30050643181127	19
+Midge indet.	st9	3.18799133570704	20
+Rheocricotopus effusus	st9	2.76739355129945	21
+Orthocladius fridgidus	st9	1.80949356443052	22
+Thaumaleidae	st9	1.35579858989614	23
+Tubificid 1	st9	1.20156023947007	24
+Oribatid 1	st9	0.823234565271805	25
+Thysanoptera	st9	0.676467181495107	26
+Ceratopegonid	st9	0.668635070114137	27
+Prosimulium ursinum	st9	0.577412602381288	28
+Clinocera stagnalis	st9	0.294323940364054	29
+Antocha sp.	st9	0.250662972641964	30
+Simulium aureum	st9	0.207367630953459	31
+Simulium spp.	st9	0.153710224151315	32
+Hydra	st9	0.0922168088402698	33
+Tub. 2	st9	0.0420743618980499	34
+Oribatid 2	st9	0.0212149106866667	35
+Simulium vernum	st9	0.0181012972411404	36
+Potamophylax cingulatus	st9	0.0147672986981538	37
+Oribatid 3	st9	0.00165629482958333	38
+Ostracoda	st7	4249.46800833688	1
+Diamesa bertrami	st7	807.567915381211	2
+Diamesa bohemani_zernyi	st7	574.274147651613	3
+Potamophylax cingulatus	st7	306.326199949471	4
+Copepoda	st7	247.102561352665	5
+Oligochaeta C	st7	206.399391766206	6
+Oligochaeta A	st7	177.075768690011	7
+Sperchon glandulosus	st7	135.365572497335	8
+Eukiefferiella minor	st7	124.875022038937	9
+Prosimulium ursinum	st7	112.534140082961	10
+Rheocricotopus effusus	st7	85.8945180389309	11
+Simulium vernum	st7	75.6772707204448	12
+Eukiefferiella claripennis	st7	61.6858228552252	13
+Dicranota	st7	35.8660185444054	14
+Orthocladius frigidus	st7	28.4605677459767	15
+Chaetocladius	st7	26.9097517970255	16
+Simulium vittatum	st7	21.4664202264395	17
+Limonia	st7	9.9783778488694	18
+Oligochaeta B	st7	9.91389765135036	19
+Thienemanniella sp.	st7	7.06471483500287	20
+Limnophora riparia	st7	6.65813186827585	21
+Clinocera stagnalis	st7	5.54761586009743	22
+Micropsectra sp.	st7	5.51455733993157	23
+Radix balthica	st7	3.18581546527116	24
+Capnia vidua	st7	2.08457662625438	25
+Tipula	st7	1.54284077531453	26
+Metriocnemus	st7	0.809781530159433	27
+Thaumaleidae	st7	0.603937619633246	28
+Limnophyes	st7	0.103294989084382	29
+Collembola	st7	0.0522461538439995	30
+Parochlus	st7	0.038417294152353	31
+Ostracoda	oh2	1325.99335833191	1
+Rheocricotopus effusus	oh2	576.071598417835	2
+Micropsectra sp.	oh2	259.086877421751	3
+Simulium vittatum	oh2	216.902480775264	4
+Sperchon glandulosus	oh2	213.915827098453	5
+Copepoda	oh2	127.663850458358	6
+Chaetocladius	oh2	114.441873460252	7
+Limnophora riparia	oh2	91.8348962607602	8
+Thienemanniella sp.	oh2	83.4991296198067	9
+Orthocladius frigidus	oh2	77.6442781962154	10
+Dicranota	oh2	73.029852714079	11
+Simulium vernum	oh2	61.5331462934026	12
+Oligochaeta A	oh2	58.5125397786914	13
+Eukiefferiella minor	oh2	49.4630387573294	14
+Potamophylax cingulatus	oh2	34.5951886220197	15
+Diamesa bohemani_zernyi	oh2	30.7199385934373	16
+Diamesa bertrami	oh2	29.9782544723428	17
+Clinocera stagnalis	oh2	28.1795698265806	18
+Capnia vidua	oh2	20.9620287048751	19
+Eukiefferiella claripennis	oh2	11.4716053399112	20
+Dytiscidae Larva	oh2	11.2329930746237	21
+Radix balthica	oh2	8.64532956195366	22
+Oligochaeta B	oh2	5.38215933785184	23
+Macropelopia	oh2	5.00922296912433	24
+Tipula	oh2	4.00403203285493	25
+Limonia	oh2	2.6301732080633	26
+Oligochaeta C	oh2	2.42241345910488	27
+Parochlus	oh2	2.12982928216502	28
+Orthocladius oblidens	oh2	0.823149045427129	29
+Ceratopogonidae A	oh2	0.475055703607633	30
+Nematoda	oh2	0.218556752569274	31
+Collembola	oh2	0.130465550254481	32
+Metriocnemus	oh2	0.0764748224238963	33
+Limnophyes	oh2	0.0349113458127127	34
+Simulium vittatum	st14	286.474279232371	1
+Sperchon glandulosus	st14	57.1159306945511	2
+Prosimulium ursinum	st14	28.3151196645257	3
+Limnophora riparia	st14	16.2565118416981	4
+Ostracoda	st14	13.9353310757512	5
+Potamophylax cingulatus	st14	8.96336652338955	6
+Lumbricidae	st14	8.16850386994646	7
+Antocha sp.	st14	6.61506079711948	8
+Tubificid 1	st14	5.47876887875388	9
+Simulium aureum	st14	5.07519650577874	10
+ Eukiefferiella	st14	4.78730207282017	11
+Thysanoptera	st14	4.30999790507523	12
+Rheocricotopus effusus	st14	1.3520989529864	13
+Thienemanniella sp.	st14	1.17412155300977	14
+Orthocladius fridgidus	st14	0.838245565852161	15
+Micropsectra sp.	st14	0.611576547038483	16
+Diamesa	st14	0.39476708294036	17
+Copepoda	st14	0.274491053021901	18
+Nematoda	st14	0.204215951823941	19
+Radix balthica	st14	0.068422254367627	20
+Ceratopegonid	st14	0.0538695729440801	21
+Tub. 2	st14	0.0468139803461458	22
+Oribatid 2	st14	0.00597631186544751	23
+Oribatid 1	st14	0.00391414516685298	24
+Oribatid 3	st14	0.00291026314708073	25
+Hydracarina	st14	0.0027012607149242	26

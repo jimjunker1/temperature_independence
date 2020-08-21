@@ -1,2 +1,13 @@
-# temperature_independence
-code repository for Ecology Letters pub
+## Resource supply governs the apparent temperature dependence of animal production in stream ecosystems
+
+**_Ecology Letters_ Accepted**
+
+**James R Junker, WF Cross, JP Benstead, AD Huryn, JM Hood, D Nelson, GM Gíslason, JS Ólafsson**
+
+---
+
+This repository contains data and code accompanying the [published manuscript]().
+
+All analyses and figures in the main text and supplemental can be created through scripts in the ```code/``` folder. 
+
+Please email Jim Junker (james.junker at gmail.com) with any questions.
