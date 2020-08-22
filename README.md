@@ -4,9 +4,10 @@
 
 **James R Junker, WF Cross, JP Benstead, AD Huryn, JM Hood, D Nelson, GM Gíslason, JS Ólafsson**
 
+
 ---
 
-This repository contains data and code accompanying the [published manuscript]().
+This repository contains data and code accompanying the [published manuscript](). The citable data & code repository can be found here: <a href="https://doi.org/10.5281/zenodo.3995134"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3995134.svg" alt="DOI"></a>
 
 All analyses and figures in the main text and supplemental can be created through scripts in the ```code/``` folder. 
 
